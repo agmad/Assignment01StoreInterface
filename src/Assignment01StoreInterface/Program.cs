@@ -11,6 +11,12 @@ namespace Assignment01StoreInterface
             //Butiken har två adresser, en för fakturering och en besöksadress.
             //Butikens utbud består av 25 unika filmer och unika 25 musikalbum.
 
+Console.WriteLine("Hans-Johnny butik namn");
+		
+		 Console.WriteLine("Hans-Johnny butik adress");
+		
+
+
             //Resultatet skall presentera följande information.
 
             //För filmer: Namn, Regissör, Snittbetyg från användare(0 - 10), Releasedatum, Speltid(i minuter och timmar), Pris.
